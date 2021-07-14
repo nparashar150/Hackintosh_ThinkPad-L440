@@ -17,8 +17,8 @@
 2) Audio Works
 3) USB Works 
 4) Audio Jack Works
-5) Intel HD Graphics Work
-*) Everything except WiFi Works
-Note.) For WiFi I have used TL-WN823N
+5) Intel HD Graphics Work 
+6) Everything except WiFi Works 
+7) For WiFi I have used TL-WN823N
 
 ### If you want install Guide then go [here](https://github.com/nparashar150/Hackintosh-Dell-E7440)
