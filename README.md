@@ -1,5 +1,5 @@
 ## Hackintosh_ThinkPad-L440
-
+![About_System](https://user-images.githubusercontent.com/63806451/125563726-babee51d-c451-4263-acf2-1f0e6b08e864.png)
 
 ### My System Spec
 1) i5 4210m
