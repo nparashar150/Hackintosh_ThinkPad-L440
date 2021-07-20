@@ -1,10 +1,5 @@
-## Hackintosh_ThinkPad-L440
+## Hackintosh_ThinkPad-L440 <br> ⭐ the repository if you like it.
 ![About_System](https://user-images.githubusercontent.com/63806451/125563726-babee51d-c451-4263-acf2-1f0e6b08e864.png)
-
-### My System Spec
-1) i5 4210m
-2) 4gb + 4gb DDR3 Stick
-3) 256gb SSD (WD)
 
 ### Clover Guide for Hackintosh ThinkPad L440
 1) Install MacOS Catalina on your ThinkPad L440.
@@ -12,13 +7,28 @@
 3) Install Clover on the Disk.
 4) Copy the EFI Folder to your Mac's EFI Partition.
 
-### What Works?
-1) Display (1337x768)
-2) Audio Works
-3) USB Works 
-4) Audio Jack Works
-5) Intel HD Graphics Work 
-6) Everything except WiFi Works 
-7) For WiFi I have used TL-WN823N
+### Working Hardware Status 💻
+
+| Type           | Spec                                | Status|
+|----------------|-------------------------------------|-------|
+| Computer       | Lenovo ThinkPad L440                |   ✅  |
+| BIOS Version   | LENOVO v1.93                        |   ✅  |
+| CPU            | Intel i5 4210m                      |   ✅  |
+| Display        | 14 inch 16:9, 1337 x 768 pixel      |   ✅  |
+| Ethernet       | Intel I217V Gigabit Ethernet        |   ✅  |
+| Memory         | 8192 MB DDR3L-1600 MHz              |   ✅  |
+| Graphics       | Intel HD Graphics 4600              |   ✅  |
+| Audio          | Realtek Audio                       |   ✅  |
+| Touchpad       | Trash TouchPad                      |   ✅  |
+| USB Ports      | 3 x USB 2.0                         |   ✅  |
+| Storage        | WD SSD 256GB                        |   ✅  |
+| Wifi           | TP-Link WN823N                      |   ✅  |
+| VGA Port       | Max Full HD 60hz                    |   ⏳  |
+| Card Reader    | 10/15 MB/s                          |   ⏳  |
+| HDMI 1.4 Ports | Max 4k 30hz                         |   ⏳  |
+
+## What's not working ⚠️
+
+- [ ] Intel WiFi
 
 ### If you want install Guide then go [here](https://github.com/nparashar150/Hackintosh-Dell-E7440)
